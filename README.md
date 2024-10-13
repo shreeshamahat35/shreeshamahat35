@@ -1,6 +1,6 @@
 # Hello, I'm Shreesha Mahat 👋
 
-I'm a developer with a passion for building web apps and learning new technologies. Here are some of the things I love to work on:
+I'm BIM 1st Year Student  with a passion for building web apps and learning new technologies. Here are some of the things I love to work on:
 
 - 🌱 Currently learning: Dart, Flutter
 - 🛠 Languages & Tools: C, Java,  HTML, CSS, JavaScript, Spring Boot, MySQL
