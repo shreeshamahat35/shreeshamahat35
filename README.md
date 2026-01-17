@@ -1,6 +1,6 @@
 # Hello, I'm Shreesha Mahat 👋
 
-I'm Bachelors of Information Management (BIM) 1st Year Student  with a passion for building web apps and learning new technologies. 
+I'm Bachelors of Information Management (BIM) 3rdYear Student  with a passion for building web apps and learning new technologies. 
 - 🌱 Currently learning: Phython, R 
 - 🛠 Languages & Tools: C, Java,  HTML, CSS, JavaScript, Spring Boot, MySQL
 
